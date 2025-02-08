@@ -12,3 +12,5 @@ Tech Stack 🛠️
 	•	Frontend: Next.js, TypeScript, Tailwind CSS
 	•	Backend: API integration with Node.js/Express (if applicable)
 	•	Deployment: Ready for hosting on platforms like Vercel or Netlify
+
+
